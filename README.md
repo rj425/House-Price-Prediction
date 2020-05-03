@@ -1,5 +1,7 @@
 # House Prices Prediction
 
-- **Source -** Kaggle
+- **Source -** [Kaggle](https://www.kaggle.com/)
 - **Competition -** [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-- **Solution -** [Notebook](https://nbviewer.jupyter.org/github/rj425/House-Prices-Prediction/blob/master/house-prices-prediction.ipynb)
+- **Solution -** [Python Notebook](https://nbviewer.jupyter.org/github/rj425/House-Prices-Prediction/blob/master/house-prices-prediction.ipynb)
+- **Latest Public Score -**<br><br>
+![Leaderborad](results/score.png)
