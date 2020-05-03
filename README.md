@@ -1,5 +1,5 @@
 # House Prices Prediction
 
 - **Source -** Kaggle
-- **Competition Name -** House Prices: Advanced Regression Techniques
-- **Competition URL -** https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+- **Competition -** [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- **Solution -** [Notebook](https://nbviewer.jupyter.org/github/rj425/House-Prices-Prediction/blob/master/house-prices-prediction.ipynb)
